@@ -70,9 +70,9 @@
 - **否定回答**：No, there isn't/aren't/wasn't/weren't.
 
 #### 例句：
-- Is there a book on the table?  
+- Is there a book on the table?
   Yes, there is. / No, there isn't.
-- Were there any apples in the basket?  
+- Were there any apples in the basket?
   Yes, there were. / No, there weren't.
 
 ---
@@ -142,7 +142,7 @@
 ## 总结
 "there be" 句型用于描述某处存在某物或某人，时态和主谓一致需特别注意。
 
-"there be" 句型的疑问句形式是将 **be 动词** 提到 **there** 之前，构成 **Be + there + 名词 + 地点/时间状语？** 的结构。以下是详细说明和例句：
+"there be" **be 动词** 提到 **there** 之前，构成 **Be + there + 名词 + 地点/时间状语？** 的结构。以下是详细说明和例句：
 
 ---
 
