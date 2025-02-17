@@ -42,7 +42,7 @@
      - 指人：The man whose phone rang is my teacher.  
      - 指物：The tree whose leaves are falling is very old.  
 
-2. **与 **who's** 的区别**  
+2. **与 **who's**的区别**
    - **Whose** 表示所属关系，而 **who's** 是 **who is** 或 **who has** 的缩写。  
      - Whose book is this?（这是谁的书？）  
      - Who's coming to the party?（谁要来参加派对？）  
